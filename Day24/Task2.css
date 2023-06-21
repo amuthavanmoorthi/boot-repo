@@ -1,0 +1,22 @@
+.H_Div{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 400px;
+    margin:0 auto;
+    padding-top: 220px;
+    padding-left: 45px;
+    margin-top: 20px;
+}
+.Details{
+    border: 5px solid #48ee59;
+    height: 220px;
+    width: 310px;
+    background-color: #00000080;
+    padding-left: 20px;
+}
+.code{
+    margin-bottom:110px;
+
+}

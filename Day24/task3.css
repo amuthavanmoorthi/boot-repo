@@ -1,0 +1,19 @@
+.back{
+    background-color: #f6c56e;
+    margin-top: -110px;
+    color: #323f4b;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.head{
+font-family: 'Bree Serif', serif;
+font-weight: bolder;
+}
+.details{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+.button{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
