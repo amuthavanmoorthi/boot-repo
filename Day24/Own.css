@@ -6,7 +6,6 @@ body{
     margin-left: 50px;
     border-radius: 15px;
 }
-
 li{
     display: inline;
     margin-left: 40px;
@@ -59,4 +58,192 @@ ul{
     margin-left: 30px;
     margin-right: 30px;
 }
+.Things{
+    margin-left: 20px;
+}
+.Services{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 70px;
+}
+.Service_One{
+    width: 30%;
+    height: 40%;
+}
+.Service_Two{
+    width: 30%;
+    height: 40%;
+    margin-left: 60px;
+}
+.Service_Three{
+    width: 30%;
+    height: 40%;
+    margin-left: 60px;
+}
+.Service_Head{
+
+}
+.Idesign{
+    margin-left: 8%;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.Wall{
+        margin-left: 45%;
+        margin-top: -58px;
+        font-size: 30px;
+        font-weight: bolder;
+}
+.Modul{
+    margin-left: 77%;
+    margin-top: -58px;
+    font-size: 30px;
+    font-weight: bolder; 
+}
+.Para_One{
+    margin-left: 7%;
+    font-size: 20px;
+}
+.Para_Two{
+    margin-left: 45%;
+    font-size: 20px;
+    margin-top: -64px;
+}
+.Para_Three{
+    margin-left: 77%;
+    font-size: 20px;
+    margin-top: -64px;
+}
+.Client_Div{
+    height: 75vh;
+    margin-top: 70px;
+    border: 2px solid black;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color:darkgray;
+}
+.Client{
+    text-align: center;
+    font-size: 40px;
+}
+.Client_Detail{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.Client_Pic{
+    display: flex;
+}
+.Pic_One{
+    margin-left: 100px;
+    border-radius: 5px;
+}
+.Pic_Two{
+    margin-left: 120px;
+    border-radius: 5px;
+}
+.Pic_Three{
+    margin-left: 120px;
+    border-radius: 5px;
+}
+.Pic_Four{
+    margin-left: 120px;
+    border-radius: 5px;
+}
+.Pic_Five{
+    margin-left: 120px;
+    border-radius: 5px;
+}
+.Pic_One1{
+    margin-left: 120px;
+}
+.Pic_One2{
+    margin-left: 375px;
+    margin-top: -35px;
+}
+.Pic_One3{
+    margin-left: 655px;
+    margin-top: -35px;
+}
+.Pic_One4{
+    margin-left: 930px;
+    margin-top: -35px;
+}
+.Pic_One5{
+    margin-left: 1200px;
+    margin-top: -35px;
+}
+.Pic_One6{
+    margin-left: 130px;
+}
+.Pic_One7{
+    margin-left: 400px;
+    margin-top: -35px;
+}
+.Pic_One8{
+    margin-left: 675px;
+    margin-top: -35px;
+}
+.Pic_One9{
+    margin-left: 960px;
+    margin-top: -35px;
+}
+.Pic_One10{
+    margin-left: 1230px;
+    margin-top: -35px;
+}
+.Recent_Div{
+    margin-left: 25px;
+}
+.Recent_Project{
+    text-align: center;
+    font-size: 40px;
+}
+.Img_One{
+    margin-left: 40px;
+}
+.Img_Two{
+    margin-left: 40px;
+}
+.Img_Three{
+    margin-left: 40px;
+}
+.Img_Four{
+    margin-left: 40px;
+}
+.Img_Five{
+    margin-left: 40px;
+}
+.End_Div{
+    border: 2px solid black;
+    height: 400px;
+    background-color: rgb(3, 9, 46);
+}
+.Address{
+    color: white;
+    font-weight: bolder;
+    position: relative;
+    bottom: 300px;
+    left: 720px;
+}
+.Address_Div{
+    width: 200px;
+}
+.House_Div{
+    height: 1px;
+    width: 200px;
+}
+.Phone_Div{
+    height: 1px;
+    width: 200px;
+}
+.Mail_Div{
+    height: 1px;
+    width: 200px;
+}
+
+
+
+
+
 
