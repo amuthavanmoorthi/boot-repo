@@ -1,0 +1,25 @@
+.Learn_Button{
+    color: 	#5752ab;
+    background-color: #ffffff;
+    border: 1px solid #5752ab;
+}
+.Draft_Button{
+    background-color: #5752ab;
+    color: #ffffff;
+    border: solid;
+}
+.card_Radius{
+    background-color:#ffffff;
+    margin-top: -150px;
+    /* border: 2px solid black; */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.Title{
+font-family: 'Bree Serif', serif;
+    color: 	#5752ab;
+}
+.Text{
+font-family: 'Roboto', sans-serif;
+color: #323f4b;
+}

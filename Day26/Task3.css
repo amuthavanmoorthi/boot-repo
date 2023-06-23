@@ -1,0 +1,33 @@
+.Background{
+    /* border: 2px solid black; */
+    height: 720px;
+    width: 500px;
+  background-color:#e6f6ff;  
+}
+.First_Div{
+    background-color:#fb4e71;
+}
+.Font{
+    font-family: 'Roboto', sans-serif;  
+}
+.Min_Text{
+   padding-right: 20px;
+}
+.card-text{
+    font-weight: bold;
+    margin-left: 10px;
+}
+.card-text2{
+    font-weight: bold;
+    margin-left: 180px;
+    margin-top: -65px;
+}
+.card-text3{
+    font-weight: bold;
+    margin-left: 350px;
+    margin-top: -65px;
+}
+.Maxing{
+    margin-top: 20px;
+    margin-left: 180px;
+}

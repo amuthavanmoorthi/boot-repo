@@ -1,0 +1,22 @@
+.card_Radius{
+    margin-top: -290px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color:#ffffff;
+}
+.Read_Button{
+    border: #323f4b;
+    background-color:#323f4b;
+}
+.Text{
+    color:#323f4b;
+    font-family: 'Roboto', sans-serif;
+}
+.Title{
+    color:#7b8794;
+    font-family: 'Roboto', sans-serif;
+}
+.Texts{
+    color:#7b8794;
+    font-family: 'Roboto', sans-serif;
+}

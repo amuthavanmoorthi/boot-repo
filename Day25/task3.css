@@ -1,0 +1,54 @@
+.Card_One{
+    height: 100px;
+    width: 100px;
+    margin-left: 40px;
+    text-align: center;
+}
+.Card_Two{
+    height: 110px;
+    width: 100px;
+    margin-left: 40px;
+    text-align: center;
+}
+.Card_Th{
+    margin-top: 70px;
+    margin-left: -170px;
+    width: 170px;
+}
+.Card_Three{
+    height: 100px;
+    width: 150px;
+    margin-left: 10px;
+}
+.Card_Four{
+    height: 80px;
+    width: 100px;
+    margin-left: 30px;
+}
+.Card_Zero{
+    margin-left: 600px;
+    width: 350px;
+}
+.Card_Right{
+    margin-left: 50px;
+    width: 170px;
+    height: 150px;
+}
+.Air{
+    margin-top: -190px;
+    margin-left: 50px;
+    width: 170px; 
+}
+.Button{
+    margin-left: -30px;
+}
+.Background_Color{
+    background-color:#616e7c;
+}
+.Heading{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    position: absolute;
+    top: 90px;
+    left: 20px;
+}
