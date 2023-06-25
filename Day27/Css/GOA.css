@@ -1,0 +1,18 @@
+.card{
+    width: 100vw;
+}
+.card-body{
+    background-color:#000000e6;
+    position: absolute;
+    top: 250%;
+}
+.card-title{
+    margin-left: 6em;
+    font-size: 4em;
+}
+.btn{
+    margin-left: 45em;
+}
+.padding{
+    padding-bottom: 30em;
+}
