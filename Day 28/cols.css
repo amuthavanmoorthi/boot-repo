@@ -1,0 +1,13 @@
+
+@media only screen and (max-width: 576px){
+    div h2{
+        content: "this is 576";
+        background-color: blueviolet;
+    }
+}
+@media only screen and (max-width: 768px){
+    div h2{
+        content: 'this is 576';
+        background-color: rgb(226, 43, 70);
+    }
+}
