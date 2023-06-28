@@ -1,18 +1,42 @@
-.card{
-    width: 100vw;
+.hotel{
+    height: 100vh;
 }
-.card-body{
+.card-one{
     background-color:#000000e6;
-    position: absolute;
-    top: 250%;
+    max-width: 15em;
+    max-height: 8em;
+    border: 2px solid black;
+    border-radius: 105px;
+    margin-top: 350px;
+    text-align: center;
+    margin-left: 40px;
+    color: white;
 }
-.card-title{
-    margin-left: 6em;
-    font-size: 4em;
+button{
+    position: relative;
+    top: 30px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
 }
-.btn{
-    margin-left: 45em;
-}
-.padding{
-    padding-bottom: 30em;
+
+@media only screen and (min-width:1440px){
+    .card-one{
+        background-color:#000000e6;
+        max-width: 105em;
+        max-height: 8em;
+        border: 2px solid black;
+        border-radius: 105px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 440px;
+        color: white;
+    }
+    button{
+        position: relative;
+        top: 20px;
+        padding: 10px;
+        border: 2px solid black;
+        border-radius: 20px;
+    }
 }
