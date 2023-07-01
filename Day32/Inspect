@@ -1,0 +1,61 @@
+<ul class="sub-menu">
+	<li id="menu-item-11895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11895"><a href="https://www.kalaari.com/kalaari-team/">Team</a></li>
+	<li id="menu-item-14026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14026"><a href="https://www.kalaari.com/company/">Company</a></li>
+	<li id="menu-item-14025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14025"><a href="https://www.kalaari.com/culture/">Culture</a></li>
+	<li id="menu-item-14859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14859"><a href="https://www.kalaari.com/community/">Community</a></li>
+	<li id="menu-item-14878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14878"><a href="https://www.kalaari.com/hindustanhamara/">Hindustan Hamara</a></li>
+	<li id="menu-item-22262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22262"><a href="https://www.kalaari.com/fellowship/">Fellowship</a></li>
+</ul>
+
+<div class="container">
+    <!-- header_main -->
+    <div class="header_main">
+                            <!-- brand-logo -->
+            <div class="brand-logo radiantthemes-retina">
+                <a href="https://www.kalaari.com/"><img src="https://www.kalaari.com/wp-content/uploads/2021/08/Kalaari-Logo.png" alt=""></a>
+            </div>
+            <!-- brand-logo -->
+                                            <!-- header-responsive-nav -->
+            <div class="header-responsive-nav hidden-lg hidden-md visible-sm visible-xs">
+                <i class="fa fa-bars"></i>
+            </div>
+            <!-- header-responsive-nav -->
+                                            <!-- header-hamburger-menu -->
+                                    <div class="header-hamburger-menu hidden-sm hidden-xs">
+                    <span class="header-sidebar-menu-open-line"></span>
+        <span class="header-sidebar-menu-open-line"></span>
+        <span class="header-sidebar-menu-open-line"></span>
+                                    <i class="fa fa-bars"></i>
+            </div>
+            <!-- header-hamburger-menu -->
+                        <!-- header_main_action -->
+        <div class="header_main_action">
+            <ul>
+                                                            </ul>
+        </div>
+        <!-- header_main_action -->
+        <!-- nav -->
+        <nav class="nav visible-lg visible-md hidden-sm hidden-xs">
+            <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-11890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11890"><a href="#">About</a>
+<ul class="sub-menu">
+<li id="menu-item-11895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11895"><a href="https://www.kalaari.com/kalaari-team/">Team</a></li>
+<li id="menu-item-14026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14026"><a href="https://www.kalaari.com/company/">Company</a></li>
+<li id="menu-item-14025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14025"><a href="https://www.kalaari.com/culture/">Culture</a></li>
+<li id="menu-item-14859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14859"><a href="https://www.kalaari.com/community/">Community</a></li>
+<li id="menu-item-14878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14878"><a href="https://www.kalaari.com/hindustanhamara/">Hindustan Hamara</a></li>
+<li id="menu-item-22262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22262"><a href="https://www.kalaari.com/fellowship/">Fellowship</a></li>
+</ul>
+</li>
+<li id="menu-item-11887" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item menu-item-11887"><a href="https://www.kalaari.com/portfolio/" aria-current="page">Portfolio</a></li>
+<li id="menu-item-12946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12946"><a href="https://www.kalaari.com/innovation-partner/">Innovation Partner</a></li>
+<li id="menu-item-12947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12947"><a href="https://www.kalaari.com/resources/">Resources</a></li>
+<li id="menu-item-13116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13116"><a href="https://www.kalaari.com/news/">News</a></li>
+<li id="menu-item-22176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22176"><a href="https://www.kalaari.com/fellowship/">Fellowship</a></li>
+<li id="menu-item-16267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16267"><a target="_blank" rel="noopener" href="http://cxxo.kalaari.com" class="menu-image-title-hide menu-image-not-hovered"><span class="menu-image-title-hide menu-image-title">CXXO</span><img width="81" height="20" src="https://www.kalaari.com/wp-content/uploads/2021/08/cxxo-menu.png" class="menu-image menu-image-title-hide" alt="" decoding="async" loading="lazy" data-no-retina=""></a></li>
+<li id="menu-item-11912" class="home-button menu-item menu-item-type-custom menu-item-object-custom menu-item-11912"><a href="/pitch/">PITCH</a></li>
+</ul></div>				</nav>
+        <!-- nav -->
+        <div class="clearfix"></div>
+    </div>
+    <!-- header_main -->
+</div>
