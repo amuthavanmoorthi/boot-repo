@@ -1,0 +1,17 @@
+.card{
+    background-color: rgb(72, 71, 71);
+    color: white;
+    height: 100%;
+    border: 2px solid white;
+}
+body{
+    background-color: grey;
+    color: white;
+}
+h4,a{
+    color: #cced00;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
