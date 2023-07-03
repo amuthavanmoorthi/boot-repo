@@ -1,43 +1,25 @@
-body{
-    background-color:#19232d;
-}
-.Main-Div{
-    margin-left: 50px;
-    margin-top: 130px;
-}
-.Credits{
-    display: flex;
-    justify-content: center;
-}
-
-@media only screen and (min-width:200px) and (max-width:992px){
-footer{
-    display: none;
-}
-img{
-    position: absolute;
-    top: 50px;
-    margin-left: 20px;
-}
-.fa-brands{
-    position: absolute;
-    top: 120px;
-    padding-left:20px ;
-}
-.fa-google{
-    padding-left: 100px;
-}
-.fa-twitter{
-    padding-left: 40px;
-}
-.content{
-    position: relative;
-    bottom: 180px;
-}
-.Contact{
-    margin-top: 90%;
-}
-.Let-us{
+.border3{
     
+    width: 100%;
+    height: 340px;
+    border: none;
 }
+.color1{
+    color: rgb(133, 131, 131);
+}
+.border4{
+    
+    width: 100%;
+    height: 340px;
+    border: none;
+}
+.color2{
+    color: rgb(133, 131, 131);
+    font-weight: bold;
+}
+.font1{
+    font-size: 20px;
+}
+body{
+    color: rgb(133, 131, 131);
 }
