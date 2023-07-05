@@ -144,7 +144,7 @@ button{
 }
 button:hover{
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid #f9004d; 
 }
 .Second_p{
     text-align: center;
