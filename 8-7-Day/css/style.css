@@ -1,0 +1,19 @@
+.cus-nav{
+    margin-left: 300px;
+}
+.cus-nav-color{
+    color: white;
+}
+.cus-about:hover{
+    background-color: red;
+    color: darkgrey;
+}
+.Header{
+    position: fixed;
+}
+.Main-Image{
+    background-image: url("../Images/sample-page.jpg");
+    height: 100vh;
+    width: 93%;
+    margin: 0;
+}
